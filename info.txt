@@ -1,0 +1,3 @@
+to run the program with .env file in the terminal use the following command:
+
+./node_modules/.bin/env-cmd -f ./config/dev.env nodemon src/index.js
